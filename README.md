@@ -25,7 +25,6 @@
 ![خارطة طريق تعلم تحليل البيانات](data-analyst-roadmap-ar.png)
 
 ---
-
 ## 🛠️ الأدوات
 
 <a href="excel/README.md">
@@ -33,35 +32,33 @@
 اكسيل: أساسيات التعامل مع البيانات، الصيغ، والجداول المحورية (Pivot Tables). غالبًا أول أداة هيتعامل معاها أي حد بيدخل مجال تحليل البيانات.
 </a>
 
-<br>
+<br><br>
 
 <a href="sql/README.md">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL"/>
 إس كيو إل: لغة استرجاع البيانات من قواعد البيانات، وكتابة الاستعلامات (Queries)، والـ Joins.
 </a>
 
-<br>
+<br><br>
 
 <a href="power-bi/README.md">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/>
 باور بي آي: بناء لوحات تحكم (Dashboards) وتصورات بصرية تساعدك تعرض نتائج التحليل بشكل واضح.
 </a>
 
-<br>
+<br><br>
 
 <a href="python/README.md">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
 بايثون: التحليل البرمجي للبيانات، الأتمتة، والتعامل مع بيانات أكبر وأعقد.
 </a>
 
-<br>
+<br><br>
 
 <a href="statistics/README.md">
   <img src="https://img.shields.io/badge/Statistics-000000?style=flat&logoColor=white" alt="Statistics"/> 
 الإحصاء: الأساسيات الإحصائية اللي بتدي معنى حقيقي للتحليل، وتساعدك تفهم البيانات مش بس تشوفها.
-
 </a>
-
 
 ---
 
