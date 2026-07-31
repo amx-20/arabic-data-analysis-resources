@@ -13,10 +13,8 @@
 <h3 align="right">📺 قنوات وفيديوهات على YouTube</h3>
 
 <div dir="rtl" align="right">
-
-- [اسم المصدر](الرابط)
-- [اسم المصدر](الرابط)
-- [اسم المصدر](الرابط)
+  
+- [دبلومة تحليل البيانات Power BI - عصام الصياد](https://youtube.com/playlist?list=PLkYJ59mAhUsMbZQ4AmBmGt0EEyrTrg5mX&si=OK40mqWAZSOfMjXZ)
 
 </div>
 
