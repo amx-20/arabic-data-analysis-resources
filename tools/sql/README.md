@@ -12,13 +12,13 @@
 
 <h3 dir="rtl" align="right">📺 قنوات وفيديوهات على YouTube</h3>
 
-<div dir="rtl" align="right">
-
-- [اسم المصدر](الرابط)
-- [اسم المصدر](الرابط)
-- [اسم المصدر](الرابط)
+- [كورس SQL كامل لـ تحليل البيانات | SQL for Data Analysis - Data with Baraa](https://www.youtube.com/playlist?list=PL219I2Lz6pS8jCIsgO1-A9QYInu7_U3-h)
+- [تعلم SQL - الزيرو](https://www.youtube.com/playlist?list=PLDoPjvoZm5409M__L1-Y3o96Kk2j2U10I)
+- [قواعد البيانات Database & SQL - الدسوقي](https://www.youtube.com/playlist?list=PL1DUmTEdeA6I_O0Sp1O232m_gByT3p-m4)
+- [كورس SQL بالعربي - خالد الخضري](https://www.youtube.com/playlist?list=PLs62A292_K9d3j9Q9vL5G_q43G2Z3G09J)
 
 </div>
+
 
 <h3 dir="rtl" align="right">📚 Cheat Sheets وكتب</h3>
 
