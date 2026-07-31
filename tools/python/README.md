@@ -14,7 +14,7 @@ Python بتوفر مكتبات وأدوات كتير بتسهّل عملية ت�
 
 <div dir="rtl" align="right">
 
-- [اسم المصدر](الرابط)
+- [البايثون للمبتدئين - أنس](https://youtube.com/playlist?list=PLuRv1IekA3YUu2eT2H0TAjIDG1x5wZCSy&si=sPXPZErob3NCsWok)
 - [اسم المصدر](الرابط)
 - [اسم المصدر](الرابط)
 
