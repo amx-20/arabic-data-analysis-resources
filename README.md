@@ -66,69 +66,79 @@
 </a>
 
 ---
+<div dir="rtl" align="right">
+
+<div dir="rtl" align="right">
+<div dir="rtl" align="right">
 
 ## 📚 مصادر عامة في تحليل البيانات
 
-
 ### 📖 كتب
-- [Python for Data Analysis (3rd Edition)](https://amzn.to/48jSwj7) by Wes McKinney 
-- [SQL for Data Analysis](https://a.co/d/63MeilT) by Cathy Tanimura
-- [Practical Statistics for Data Scientists (2nd Edition)](https://a.co/d/1YkZaab) by Peter Bruce, Andrew Bruce, Peter Gedeck
-- [Essential Math for Data Science](https://a.co/d/iIWzb5C) by Thomas Nield
-- [Modern Data Analytics in Excel](https://a.co/d/6Wld3qf) by George Mount
-- [Excel 365 Bible](https://a.co/d/gZPOpZJ) by Michael Alexander, Dick Kusleika
-- [The Definitive Guide to DAX](https://a.co/d/b90GT5B) by Marco Russo, Alberto Ferrari
-- [Master Your Data with Power Query in Excel and Power BI](https://a.co/d/0dCssYI) by Miguel Escobar, Ken Puls
+
+• <a href="https://amzn.to/48jSwj7">Python for Data Analysis (3rd Edition)</a> — Wes McKinney<br>
+• <a href="https://a.co/d/63MeilT">SQL for Data Analysis</a> — Cathy Tanimura<br>
+• <a href="https://a.co/d/1YkZaab">Practical Statistics for Data Scientists (2nd Edition)</a> — Peter Bruce, Andrew Bruce, Peter Gedeck<br>
+• <a href="https://a.co/d/iIWzb5C">Essential Math for Data Science</a> — Thomas Nield<br>
+• <a href="https://a.co/d/6Wld3qf">Modern Data Analytics in Excel</a> — George Mount<br>
+• <a href="https://a.co/d/gZPOpZJ">Excel 365 Bible</a> — Michael Alexander, Dick Kusleika<br>
+• <a href="https://a.co/d/b90GT5B">The Definitive Guide to DAX</a> — Marco Russo, Alberto Ferrari<br>
+• <a href="https://a.co/d/0dCssYI">Master Your Data with Power Query in Excel and Power BI</a> — Miguel Escobar, Ken Puls
 
 ### 📝 مقالات
 
-- [هل استخدام ChatGPT في تحليل البيانات ممكن يكون مخاطرة؟](https://www.businessinsider.com/leaders-shouldnt-use-chatgpt-for-data-analytics-2023-7)
-## ⏰ ابدأ من هنا
+• <a href="https://www.businessinsider.com/leaders-shouldnt-use-chatgpt-for-data-analytics-2023-7">هل استخدام ChatGPT في تحليل البيانات ممكن يكون مخاطرة؟</a>
 
-محتاج بيانات حقيقية تتدرب عليها؟ شوف **مصادر تلاقي منها Datasets مجانية وعامة**.
+### ⏰ ابدأ من هنا
 
-- [Datahub](https://datahub.io/collections)
-- [Dataset Search](https://datasetsearch.research.google.com/) 
-- [Kaggle](https://www.kaggle.com/datasets) 
-- [Data Gov](https://data.gov/)
-- [Maven Analytics Data Playground](https://www.mavenanalytics.io/data-playground)
-- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
-- [Datacamp Datasets](https://www.datacamp.com/workspace/datasets)
-- [NASA Data](https://data.nasa.gov/)
-- [Google BigQuery](https://cloud.google.com/bigquery/docs/sandbox)
+محتاج بيانات حقيقية تتدرب عليها؟ دي مجموعة من المصادر اللي تقدر تلاقي منها بيانات مجانية وعامة:
 
-### YouTube Channels
+• <a href="https://www.coursera.org/">ء</a><br>
+• <a href="https://datahub.io/collections">Datahub</a><br>
+• <a href="https://datasetsearch.research.google.com/">Dataset Search</a><br>
+• <a href="https://www.kaggle.com/datasets">Kaggle</a><br>
+• <a href="https://data.gov/">Data.gov</a><br>
+• <a href="https://www.mavenanalytics.io/data-playground">Maven Analytics Data Playground</a><br>
+• <a href="https://github.com/awesomedata/awesome-public-datasets">Awesome Public Datasets</a><br>
+• <a href="https://www.datacamp.com/workspace/datasets">DataCamp Datasets</a><br>
+• <a href="https://data.nasa.gov/">NASA Data</a><br>
+• <a href="https://cloud.google.com/bigquery/docs/sandbox">Google BigQuery</a>
 
-- [Alex the Analyst](https://www.youtube.com/c/AlexTheAnalyst)
-- [Tina Huang](https://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dww/featured) 
-- [Luke Barousse](https://www.youtube.com/c/LukeBarousse)
-- [Ken Jee](https://www.youtube.com/@KenJee_ds/featured)
-- [sqlbelle](https://www.youtube.com/c/sqlbelle)
+### ▶️ قنوات YouTube
 
-### LinkedIn Creators
+• <a href="https://www.coursera.org/">ء</a><br>
+• <a href="https://www.youtube.com/c/AlexTheAnalyst">Alex the Analyst</a><br>
+• <a href="https://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dww/featured">Tina Huang</a><br>
+• <a href="https://www.youtube.com/c/LukeBarousse">Luke Barousse</a><br>
+• <a href="https://www.youtube.com/@KenJee_ds/featured">Ken Jee</a><br>
+• <a href="https://www.youtube.com/c/sqlbelle">sqlbelle</a>
 
-- [Danny Ma](https://www.linkedin.com/in/datawithdanny/) 
-- [Avery Smith](https://www.linkedin.com/in/averyjsmith/) 
-- [Albert Bellamy](https://www.linkedin.com/in/bellamy-al/) 
+### 💼 صناع محتوى على LinkedIn
 
-### Specific Courses
+• <a href="https://www.coursera.org/">ء</a><br>
+• <a href="https://www.linkedin.com/in/datawithdanny/">Danny Ma</a><br>
+• <a href="https://www.linkedin.com/in/averyjsmith/">Avery Smith</a><br>
+• <a href="https://www.linkedin.com/in/bellamy-al/">Albert Bellamy</a>
 
-- [Data Analyst Bootcamp (Free)](https://youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF) from [Alex the Analyst](https://www.youtube.com/@AlexTheAnalyst) 
-- [Google Data Analytics Course](https://grow.google/dataanalytics/#?modal_active=none) 
-- [Data with Danny Serious SQL Course](https://www.datawithdanny.com/courses/serious-sql) from [Danny Ma](https://www.datawithdanny.com/)
-
+### 🎓 كورسات محددة
 
 
-### Course Platforms
+• <a href="https://www.coursera.org/">ء</a><br>
+• <a href="https://www.coursera.org/">Coursera</a><br>
+• <a href="https://www.mavenanalytics.io/">Maven Analytics</a>
 
-- [Coursera](https://www.coursera.org/)
-- [Maven Analytics](https://www.mavenanalytics.io/) 
+### 🌐 منصات للتعلُّم
+
+• <a href="https://www.coursera.org/">ء</a><br>
+• <a href="https://www.coursera.org/">Coursera</a><br>
+• <a href="https://www.mavenanalytics.io/">Maven Analytics</a>
 
 ## 🖥️ المساهمة
 
-لو عندك مصدر مجاني ومفيد لتعلُّم تحليل البيانات شايف إنه يستاهل يكون هنا، شاركه معانا.
+عندك مصدر مجاني ومفيد لتعلُّم تحليل البيانات شايف إنه يستاهل يكون هنا؟ شاركه معانا.
 
 تقدر تعمل **Pull Request (PR)** وتضيف المصدر، وهنراجعه ونضيفه للتجميعة لو مناسب.
+
 > 🗓️ **آخر تحديث:** يوليو 2026
 
+</div>
 </div>
