@@ -13,10 +13,10 @@
 <h3 align="right">📺 قنوات وفيديوهات على YouTube</h3>
 
 <div dir="rtl" align="right">
-
-- [اسم المصدر](الرابط)
-- [اسم المصدر](الرابط)
-- [اسم المصدر](الرابط)
+  
+- [Probability and Statistics | احتمالات وإحصاء - احمد حجاج](https://www.youtube.com/playlist?list=PLxIvc-MGOs6gW9SgkmoxE5w9vQkID1_r-)
+- [Statistical Analysis | التحليل الإحصائي - احمد حجاج](https://www.youtube.com/playlist?list=PLxIvc-MGOs6ilU3FPyJr3T-VkufZy2NGi)
+- [Statistics احصاء - قناة أنس](https://www.youtube.com/playlist?list=PLvuToPs04FnAHzEnvib9_qasF1n4wAdCD)
 
 </div>
 
