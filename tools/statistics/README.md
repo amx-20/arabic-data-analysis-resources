@@ -32,6 +32,17 @@
 • <a href="https://www.youtube.com/watch?v=lFUm8Tm4TjY">كيف يمكن للأرقام أن تكذب عليك؟ | مقدمة الإحصاء لتحليل البيانات — مدرسة تحليل البيانات</a><br>
 • <a href="https://www.youtube.com/watch?v=Hp4N96xgE-4">06-01 المعادلات الإحصائية - COUNTIF — المنذر</a>
 
+### 📐 Statistics
+
+#### 📚 Courses & Playlists
+
+- [احتمالات وإحصاء — أحمد حجاج](https://www.youtube.com/playlist?list=PLxIvc-MGOs6gW9SgkmoxE5w9vQkID1_r-)
+- [الإحصاء لتحليل البيانات — مدرسة تحليل البيانات](https://www.youtube.com/playlist?list=PLJxaQ_vE5X8vfRkwwSKS6TU8FKUxL7sS1)
+- [Statistics — قناة أنس](https://www.youtube.com/playlist?list=PLvuToPs04FnAHzEnvib9_qasF1n4wAdCD)
+
+#### 🎥 Individual Videos
+
+- [أهم المعادلات الإحصائية في Excel لتحليل البيانات — اتعلم مع العسال](https://www.youtube.com/watch?v=ShHr6DtI6bY)
 </div>
 
 </div>
