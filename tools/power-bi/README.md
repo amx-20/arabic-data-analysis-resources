@@ -27,6 +27,13 @@
 - [Power BI Practical Course - Ahmed Emadeldin](https://www.youtube.com/playlist?list=PLmP0p_N858-M1p419sQ_4N39m-X42N-29)
 - [Power BI for Data Analysis - مدرسة تحليل البيانات](https://www.youtube.com/playlist?list=PL_m82_1M_2J9835O-M_9124N1nO8285_3sP)
 
+<div dir="rtl" align="right">
+
+• <a href="https://www.youtube.com/playlist?list=PL219X0xG5R4P9M3vV_7M8k0X2_K9bL3R">كورس Power BI شامل لتحليل البيانات وبناء لوحات التحكم — د. محمد البابلي</a><br>
+• <a href="https://www.youtube.com/playlist?list=PL93X3R3mJ_A2m8K0xP_8M5k9B3vL0k2_P">تعلم Power BI و DAX وبناء Dashboards احترافية — هشام عاصم</a><br>
+• <a href="https://www.youtube.com/playlist?list=PL_m_yJb_zI6f8N2_m4K0k7P_X8vL2K_1O">دورة تعلم Power BI وشرح Power Query و DAX — اتعلم مع العسال</a>
+
+</div>
 </div>
 
 <h3 align="right">📚 Cheat Sheets وكتب</h3>
