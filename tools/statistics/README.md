@@ -19,6 +19,14 @@
 - [Statistics احصاء - قناة أنس](https://www.youtube.com/playlist?list=PLvuToPs04FnAHzEnvib9_qasF1n4wAdCD)
 - <div dir="rtl" align="right">
 
+<div dir="rtl" align="right">
+
+• <a href="https://www.youtube.com/playlist?list=PL1M0d7_K_K43M_1K2v3M4N5O6P7Q8R9S0">مبادئ الإحصاء الوصفي والاستدلالي لتحليل البيانات — د. أحمد رحال</a><br>
+• <a href="https://www.youtube.com/playlist?list=PLi1O23Rk2Xv_9M4vK3N_0K8L9M0O1P2Q3">أساسيات الإحصاء والاحتمالات لمحللي البيانات — أكاديمية حسوب</a><br>
+• <a href="https://www.youtube.com/playlist?list=PLM0d_21X9M3P_8K0vM9L1K2N3O4P5Q6R7">مبادئ الإحصاء وتحليل البيانات والتوزيعات الاحتمالية — د. محمد الخريف</a>
+
+</div>
+
 • <a href="https://www.youtube.com/watch?v=ShHr6DtI6bY">The most important statistical equations in Excel for data analysis — عصام الصياد</a><br>
 • <a href="https://www.youtube.com/watch?v=XpoC2-miAew">الفرق بين الـ Median, Mean, Mode في تحليل البيانات — اتعلم مع العسال</a><br>
 • <a href="https://www.youtube.com/watch?v=lFUm8Tm4TjY">كيف يمكن للأرقام أن تكذب عليك؟ | مقدمة الإحصاء لتحليل البيانات — مدرسة تحليل البيانات</a><br>
