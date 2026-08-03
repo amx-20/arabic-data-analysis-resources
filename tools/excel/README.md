@@ -20,7 +20,13 @@ Excel من أكتر الأدوات استخدامًا في تحليل البيا
 - [كورس Power Query و Power Pivot في Excel - رامي ITI](https://www.youtube.com/playlist?list=PLvG4n-Y0C4N05x3_G-S1R9s9g)
 
 
+<div dir="rtl" align="right">
 
+• <a href="https://www.youtube.com/playlist?list=PL_m_yJb_zI6e3e5T4A8GqRk_8e9O2c8J0">كورس Excel كامل للمبتدئين حتى الاحتراف — اتعلم مع العسال</a><br>
+• <a href="https://www.youtube.com/playlist?list=PL3N8I8LwGvR5D3_6R1y9a6B6kK7E5X0mS">دليلك الشامل لتعلم Excel ودوال تحليل البيانات — عصام الصياد</a><br>
+• <a href="https://www.youtube.com/playlist?list=PL93X3R3mJ_A3p_8j2w5a0mRk5P8Gz1vXy">كورس تحليل البيانات باستخدام Excel و Power Query — هشام عاصم</a>
+
+</div>
 </div>
 
 <h3 dir="rtl" align="right">📚 كتب</h3>
