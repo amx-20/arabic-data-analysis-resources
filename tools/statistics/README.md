@@ -39,7 +39,32 @@
 - [احتمالات وإحصاء — أحمد حجاج](https://www.youtube.com/playlist?list=PLxIvc-MGOs6gW9SgkmoxE5w9vQkID1_r-)
 - [الإحصاء لتحليل البيانات — مدرسة تحليل البيانات](https://www.youtube.com/playlist?list=PLJxaQ_vE5X8vfRkwwSKS6TU8FKUxL7sS1)
 - [Statistics — قناة أنس](https://www.youtube.com/playlist?list=PLvuToPs04FnAHzEnvib9_qasF1n4wAdCD)
+### 📺 فيديوهات فردية
 
+#### Excel
+
+- [شرح دالة XLOOKUP — Mo Tech Arabi](https://www.youtube.com/watch?v=jD30xLrHV-A)
+- [معادلة XLOOKUP في الإكسل — اتعلم مع العسال](https://www.youtube.com/watch?v=cjrVB2ChELs)
+
+#### SQL
+
+- [SQL Window Functions Basics — Data with Baraa](https://www.youtube.com/watch?v=o666k19mZwE)
+- [شرح SQL Window Functions: ROW_NUMBER, RANK, NTILE, SUM — Mohamed ElSaeed](https://www.youtube.com/watch?v=A_wGPVdVgrk)
+
+#### Power BI
+
+- [أهم معادلات DAX لازم أي Data Analyst يعرفها — EngAnalyst](https://www.youtube.com/watch?v=_XAwTWubDCU)
+- [DAX Variables في Power BI — اتعلم مع العسال](https://www.youtube.com/watch?v=uk9pDH_ygqg)
+
+#### Python
+
+- [Pandas للمبتدئين — 01 ما هي Pandas؟ — 1Bit | Mohamed Ibrahem](https://www.youtube.com/watch?v=IQ_PWyOsFN8)
+- [Pandas: المكتبة الأشهر لتحليل البيانات — Saeed Isa](https://www.youtube.com/watch?v=CaHklKeHql4)
+
+#### Statistics
+
+- [الإحصاء لتحليل البيانات — Mustafa Othman](https://www.youtube.com/watch?v=Jxfaz_znIGU)
+- [الإحصاء لعلم البيانات: الإحصاء الوصفي — Mustafa Othman](https://www.youtube.com/watch?v=_VO9GSrKlYM)
 #### 🎥 Individual Videos
 
 - [أهم المعادلات الإحصائية في Excel لتحليل البيانات — اتعلم مع العسال](https://www.youtube.com/watch?v=ShHr6DtI6bY)
