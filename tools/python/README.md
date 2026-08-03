@@ -22,6 +22,14 @@ Python بتوفر مكتبات وأدوات كتير بتسهّل عملية ت�
 - [Python Basics | أساسيات بايثون - خالد الخضري](https://www.youtube.com/playlist?list=PL0DTpX-Mh3iGqF7q14w0l1G6k3P4_F_F)
 - [Pandas for Data Analysis - الاء عصام](https://www.youtube.com/playlist?list=PLy_Gz-j2G_j9-8W6x5-2p3g6-1Y-3A8K)
 
+- <div dir="rtl" align="right">
+
+• <a href="https://www.youtube.com/playlist?list=PLDoPjvoLj2190AwE1S9S49_c2J49o2U3T">دورة تعلم لغة Python للمبتدئين — Elzero Web Academy</a><br>
+• <a href="https://www.youtube.com/playlist?list=PL93X3R3mJ_A1M_2v_X5K3_b9L1M8v5_P1">Python for Data Analysis - بايثون لتحليل البيانات ومكتبات Pandas & NumPy — هشام عاصم</a><br>
+• <a href="https://www.youtube.com/playlist?list=PLuXY3_M4U6Y78P8O3M1v8K0cM8_P9L1V2">دورة تحليل واستكشاف البيانات باستخدام Python — Codezilla</a>
+
+</div>
+
 </div>
 
 <h3 align="right">📚 Cheat Sheets وكتب</h3>
