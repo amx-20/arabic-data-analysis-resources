@@ -31,20 +31,77 @@
 
 ---
 
+
+<div dir="rtl" align="right">
+
 # 📚 مصادر عامة في تحليل البيانات
 
-مجموعة من المصادر المختارة والمفيدة لأي شخص بيبدأ أو بيطوّر مساره في مجال تحليل البيانات، بدايةً من الكتب والمقالات، مرورًا بالبيانات للتدريب، ووصولًا إلى الأشخاص والشهادات ومراكز التدريب.
+مجموعة من المصادر المختارة والمفيدة لأي شخص بيبدأ أو بيطوّر مساره في مجال تحليل البيانات، بدايةً من الأدوات والكتب والمقالات، مرورًا بالبيانات للتدريب، ووصولًا إلى الأشخاص والشهادات ومراكز التدريب.
 
 ## 🧭 المحتويات
 
+- [🛠️ الأدوات](#️-الأدوات)
 - [📖 الكتب](#-الكتب)
 - [📝 المقالات](#-المقالات)
 - [📊 البيانات للتدريب](#-البيانات-للتدريب)
 - [🎥 الأشخاص وصناع المحتوى](#-الأشخاص-وصناع-المحتوى)
 - [🏆 أهم الشهادات](#-أهم-الشهادات)
 - [🏫 مراكز التدريب](#-مراكز-التدريب)
-- [🛠️ الأدوات](#️-الأدوات)
 - [🖥️ المساهمة](#️-المساهمة)
+
+---
+
+## 🛠️ الأدوات
+
+مجموعة الأدوات الأساسية والمفيدة لمحلل البيانات، مع الموارد المرتبطة بكل أداة.
+
+<a href="tools/excel/README.md">
+
+اكسيل: أساسيات التعامل مع البيانات، الصيغ، والجداول المحورية (Pivot Tables). غالبًا أول أداة هيتعامل معاها أي حد بيبدأ.
+
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+
+</a>
+
+<br><br>
+
+<a href="tools/sql/README.md">
+
+إس كيو إل: لغة استرجاع البيانات من قواعد البيانات، وكتابة الاستعلامات (Queries)، والـ Joins.
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL"/>
+
+</a>
+
+<br><br>
+
+<a href="tools/power-bi/README.md">
+
+باور بي آي: بناء لوحات تحكم (Dashboards) وتصورات بصرية تساعدك تعرض نتائج التحليل بشكل واضح.
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/>
+
+</a>
+
+<br><br>
+
+<a href="tools/python/README.md">
+
+بايثون: التحليل البرمجي للبيانات، الأتمتة، والتعامل مع بيانات أكبر وأعقد.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+
+</a>
+
+<br><br>
+
+<a href="tools/statistics/README.md">
+
+الإحصاء: الأساسيات الإحصائية اللي بتدي معنى حقيقي للتحليل، وتساعدك تفهم البيانات مش بس تشوفها.
+
+<img src="https://img.shields.io/badge/Statistics-000000?style=flat&logoColor=white" alt="Statistics"/>
+
+</a>
 
 ---
 
@@ -70,45 +127,35 @@
 
 التدريب على بيانات حقيقية من أهم الخطوات في رحلة تعلم تحليل البيانات. المصادر دي بتوفر مجموعات بيانات مجانية وعامة تقدر تستخدمها في التدريب والمشاريع.
 
-- <a href="https://datahub.io/collections">Datahub</a><br>
-- <a href="https://datasetsearch.research.google.com/">Google Dataset Search</a><br>
-- <a href="https://www.kaggle.com/datasets">Kaggle Datasets</a><br>
-- <a href="https://data.gov/">Data.gov</a><br>
-- <a href="https://www.mavenanalytics.io/data-playground">Maven Analytics Data Playground</a><br>
-- <a href="https://github.com/awesomedata/awesome-public-datasets">Awesome Public Datasets</a><br>
-- <a href="https://www.datacamp.com/workspace/datasets">DataCamp Datasets</a><br>
-- <a href="https://data.nasa.gov/">NASA Data</a><br>
-- <a href="https://cloud.google.com/bigquery/docs/sandbox">Google BigQuery</a>
+- [مصدر Datahub للبيانات](https://datahub.io/collections)<br>
+- [محرك Google Dataset Search للبحث عن البيانات](https://datasetsearch.research.google.com/)<br>
+- [مجموعات بيانات Kaggle](https://www.kaggle.com/datasets)<br>
+- [بيانات الحكومة الأمريكية Data.gov](https://data.gov/)<br>
+- [منصة Maven Analytics للتدريب على البيانات](https://www.mavenanalytics.io/data-playground)<br>
+- [قائمة Awesome Public Datasets للبيانات العامة](https://github.com/awesomedata/awesome-public-datasets)<br>
+- [مجموعات بيانات DataCamp](https://www.datacamp.com/workspace/datasets)<br>
+- [بيانات NASA المفتوحة](https://data.nasa.gov/)<br>
+- [بيئة Google BigQuery للتجربة والتدريب](https://cloud.google.com/bigquery/docs/sandbox)
 
 ---
-
 ## 🎥 الأشخاص وصناع المحتوى
 
 مجموعة من محللي البيانات وصناع المحتوى المفيدين للمتابعة والتعلم، سواء من خلال YouTube أو LinkedIn.
 
-- **اسم الشخص**
-  - [YouTube](الرابط)
-  - [LinkedIn](الرابط)
-
-- **اسم الشخص**
-  - [YouTube](الرابط)
-  - [LinkedIn](الرابط)
-
-- **اسم الشخص**
-  - [YouTube](الرابط)
-  - [LinkedIn](الرابط)
-
+- [اسم الشخص](الرابط)
+- [اسم الشخص](الرابط)
+- [اسم الشخص](الرابط)
 ---
 
 ## 🏆 أهم الشهادات
 
 الشهادات دي من أهم الشهادات والمسارات المهنية المرتبطة بمجال تحليل البيانات والـ Business Intelligence، وبتساعد في بناء أساس مهني قوي وإثبات المهارات.
 
-- <a href="الرابط">اسم الشهادة — الجهة المانحة</a><br>
-- <a href="الرابط">اسم الشهادة — الجهة المانحة</a><br>
-- <a href="الرابط">اسم الشهادة — الجهة المانحة</a><br>
-- <a href="الرابط">اسم الشهادة — الجهة المانحة</a><br>
-- <a href="الرابط">اسم الشهادة — الجهة المانحة</a>
+- <a href="الرابط">شهادة اسم الشهادة — الجهة المانحة</a><br>
+- <a href="الرابط">شهادة اسم الشهادة — الجهة المانحة</a><br>
+- <a href="الرابط">شهادة اسم الشهادة — الجهة المانحة</a><br>
+- <a href="الرابط">شهادة اسم الشهادة — الجهة المانحة</a><br>
+- <a href="الرابط">شهادة اسم الشهادة — الجهة المانحة</a>
 
 ---
 
@@ -116,51 +163,10 @@
 
 مراكز وجهات تدريب بتقدم برامج أو دورات في تحليل البيانات والأدوات المرتبطة بالمجال، سواء بشكل حضوري أو من خلال تدريب مباشر.
 
-- <a href="الرابط">اسم مركز التدريب</a><br>
-- <a href="الرابط">اسم مركز التدريب</a><br>
-- <a href="الرابط">اسم مركز التدريب</a><br>
-- <a href="الرابط">اسم مركز التدريب</a>
-
----
-
-## 🛠️ الأدوات
-
-مجموعة الأدوات الأساسية والمفيدة لمحلل البيانات، مع الموارد المرتبطة بكل أداة.
-
-
-<a href="tools/excel/README.md">
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-اكسيل: أساسيات التعامل مع البيانات، الصيغ، والجداول المحورية (Pivot Tables). غالبًا أول أداة هيتعامل معاها أي حد بيبدأ.
-</a>
-
-<br><br>
-
-<a href="tools/sql/README.md">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL"/>
-إس كيو إل: لغة استرجاع البيانات من قواعد البيانات، وكتابة الاستعلامات (Queries)، والـ Joins.
-</a>
-
-<br><br>
-
-<a href="tools/power-bi/README.md">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/>
-باور بي آي: بناء لوحات تحكم (Dashboards) وتصورات بصرية تساعدك تعرض نتائج التحليل بشكل واضح.
-</a>
-
-<br><br>
-
-<a href="tools/python/README.md">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-بايثون: التحليل البرمجي للبيانات، الأتمتة، والتعامل مع بيانات أكبر وأعقد.
-</a>
-
-<br><br>
-
-<a href="tools/statistics/README.md">
-  <img src="https://img.shields.io/badge/Statistics-000000?style=flat&logoColor=white" alt="Statistics"/> 
-الإحصاء: الأساسيات الإحصائية اللي بتدي معنى حقيقي للتحليل، وتساعدك تفهم البيانات مش بس تشوفها.
-</a>
-<div dir="rtl" align="right">
+- <a href="الرابط">مركز تدريب — اسم المركز</a><br>
+- <a href="الرابط">مركز تدريب — اسم المركز</a><br>
+- <a href="الرابط">مركز تدريب — اسم المركز</a><br>
+- <a href="الرابط">مركز تدريب — اسم المركز</a>
 
 ---
 
