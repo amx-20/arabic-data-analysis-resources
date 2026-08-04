@@ -25,10 +25,11 @@ Python بتوفر مكتبات وأدوات كتير بتسهّل عملية ت�
 - [Python لتحليل البيانات ومكتبات Pandas & NumPy — هشام عاصم](https://www.youtube.com/playlist?list=PL93X3R3mJ_A1M_2v_X5K3_b9L1M8v5_P1)
 - [دورة تحليل واستكشاف البيانات باستخدام Python — Codezilla](https://www.youtube.com/playlist?list=PLuXY3_M4U6Y78P8O3M1v8K0cM8_P9L1V2)
 
+
 #### 🎥 فيديوهات فردية
 
+- [قائمة تشغيل الفيديوهات الفردية — Python](YOUR_YOUTUBE_PLAYLIST_LINK)
 
-- [قائمة الفيديوهات الفردية — Excel](YOUR_YOUTUBE_PLAYLIST_LINK)
 <h3 align="right">📚 Cheat Sheets وكتب</h3>
 
 <div dir="rtl" align="right">
