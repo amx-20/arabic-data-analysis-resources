@@ -21,6 +21,9 @@
 - <a href="https://www.youtube.com/playlist?list=PLJxaQ_vE5X8vfRkwwSKS6TU8FKUxL7sS1">الإحصاء لتحليل البيانات — مدرسة تحليل البيانات</a><br>
 - <a href="https://www.youtube.com/playlist?list=PLvuToPs04FnAHzEnvib9_qasF1n4wAdCD">الإحصاء — قناة أنس</a><br>
 - <a href="https://www.youtube.com/playlist?list=PLxIvc-MGOs6ilU3FPyJr3T-VkufZy2NGi">التحليل الإحصائي — أحمد حجاج</a>
+- <a href="https://www.youtube.com/watch?v=_VO9GSrKlYM">الإحصاء الوصفي لعلم البيانات — مصطفى عثمان</a>
+- <a href="https://www.youtube.com/watch?v=Jxfaz_znIGU">الإحصاء لتحليل البيانات — مصطفى عثمان</a><br>
+- <a href="https://www.youtube.com/watch?v=lFUm8Tm4TjY">كيف يمكن للأرقام أن تكذب عليك؟ مقدمة الإحصاء لتحليل البيانات — مدرسة تحليل البيانات</a><br> 
 
 
 
@@ -29,7 +32,7 @@
 <a href="YOUR_YOUTUBE_PLAYLIST_URL">شاهد قائمة الفيديوهات الفردية</a>
 
 #### 📚 Cheat Sheets وكتب
-- <a href="https://www.youtube.com/playlist?list=PL1M0d7_K_K43M_1K2v3M4N5O6P7Q8R9S0">مبادئ الإحصاء الوصفي والاستدلالي لتحليل البيانات — د. أحمد رحال</a><br> - <a href="https://www.youtube.com/playlist?list=PLi1O23Rk2Xv_9M4vK3N_0K8L9M0O1P2Q3">أساسيات الإحصاء والاحتمالات لمحللي البيانات — أكاديمية حسوب</a><br> - <a href="https://www.youtube.com/playlist?list=PLM0d_21X9M3P_8K0vM9L1K2N3O4P5Q6R7">مبادئ الإحصاء وتحليل البيانات والتوزيعات الاحتمالية — د. محمد الخريف</a><br> - <a href="https://www.youtube.com/playlist?list=PLxIvc-MGOs6gW9SgkmoxE5w9vQkID1_r-">احتمالات وإحصاء — أحمد حجاج</a><br> - <a href="https://www.youtube.com/playlist?list=PLJxaQ_vE5X8vfRkwwSKS6TU8FKUxL7sS1">الإحصاء لتحليل البيانات — مدرسة تحليل البيانات</a><br> - <a href="https://www.youtube.com/playlist?list=PLvuToPs04FnAHzEnvib9_qasF1n4wAdCD">الإحصاء — قناة أنس</a><br> - <a href="https://www.youtube.com/playlist?list=PLxIvc-MGOs6ilU3FPyJr3T-VkufZy2NGi">التحليل الإحصائي — أحمد حجاج</a><br> - <a href="https://www.youtube.com/watch?v=ShHr6DtI6bY">أهم المعادلات الإحصائية في Excel لتحليل البيانات — عصام الصياد</a><br> - <a href="https://www.youtube.com/watch?v=XpoC2-miAew">الفرق بين Median و Mean و Mode في تحليل البيانات — اتعلم مع العسال</a><br> - <a href="https://www.youtube.com/watch?v=lFUm8Tm4TjY">كيف يمكن للأرقام أن تكذب عليك؟ مقدمة الإحصاء لتحليل البيانات — مدرسة تحليل البيانات</a><br> - <a href="https://www.youtube.com/watch?v=Hp4N96xgE-4">المعادلات الإحصائية COUNTIF — المنذر</a><br> - <a href="https://www.youtube.com/watch?v=Jxfaz_znIGU">الإحصاء لتحليل البيانات — مصطفى عثمان</a><br> - <a href="https://www.youtube.com/watch?v=_VO9GSrKlYM">الإحصاء الوصفي لعلم البيانات — مصطفى عثمان</a>
+
 </div>
 
 </div>
