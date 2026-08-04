@@ -64,81 +64,114 @@
   <img src="https://img.shields.io/badge/Statistics-000000?style=flat&logoColor=white" alt="Statistics"/> 
 الإحصاء: الأساسيات الإحصائية اللي بتدي معنى حقيقي للتحليل، وتساعدك تفهم البيانات مش بس تشوفها.
 </a>
+<div dir="rtl" align="right">
+
+# 📚 مصادر عامة في تحليل البيانات
+
+مجموعة من المصادر المختارة والمفيدة لأي شخص بيبدأ أو بيطوّر مساره في مجال تحليل البيانات، بدايةً من الكتب والمقالات، مرورًا بالبيانات للتدريب، ووصولًا إلى الأشخاص والشهادات ومراكز التدريب.
+
+## 🧭 المحتويات
+
+- [📖 الكتب](#-الكتب)
+- [📝 المقالات](#-المقالات)
+- [📊 البيانات للتدريب](#-البيانات-للتدريب)
+- [🎥 الأشخاص وصناع المحتوى](#-الأشخاص-وصناع-المحتوى)
+- [🏆 أهم الشهادات](#-أهم-الشهادات)
+- [🏫 مراكز التدريب](#-مراكز-التدريب)
+- [🛠️ الأدوات](#️-الأدوات)
+- [🖥️ المساهمة](#️-المساهمة)
 
 ---
-<div dir="rtl" align="right">
 
-<div dir="rtl" align="right">
-<div dir="rtl" align="right">
+## 📖 الكتب
 
-## 📚 مصادر عامة في تحليل البيانات
+الكتب دي بتوفر أساس قوي لفهم تحليل البيانات، الإحصاء، الأدوات، وطريقة التفكير كمحلل بيانات.
 
-### 📖 كتب
+**[📚 استكشف الكتب والمراجع](./books/README.md)**
 
-• <a href="https://amzn.to/48jSwj7">Python for Data Analysis (3rd Edition)</a> — Wes McKinney<br>
-• <a href="https://a.co/d/63MeilT">SQL for Data Analysis</a> — Cathy Tanimura<br>
-• <a href="https://a.co/d/1YkZaab">Practical Statistics for Data Scientists (2nd Edition)</a> — Peter Bruce, Andrew Bruce, Peter Gedeck<br>
-• <a href="https://a.co/d/iIWzb5C">Essential Math for Data Science</a> — Thomas Nield<br>
-• <a href="https://a.co/d/6Wld3qf">Modern Data Analytics in Excel</a> — George Mount<br>
-• <a href="https://a.co/d/gZPOpZJ">Excel 365 Bible</a> — Michael Alexander, Dick Kusleika<br>
-• <a href="https://a.co/d/b90GT5B">The Definitive Guide to DAX</a> — Marco Russo, Alberto Ferrari<br>
-• <a href="https://a.co/d/0dCssYI">Master Your Data with Power Query in Excel and Power BI</a> — Miguel Escobar, Ken Puls
+---
 
-### 📝 مقالات
+## 📝 المقالات
 
-• <a href="https://www.businessinsider.com/leaders-shouldnt-use-chatgpt-for-data-analytics-2023-7">هل استخدام ChatGPT في تحليل البيانات ممكن يكون مخاطرة؟</a>
+مجموعة من المقالات المفيدة في تحليل البيانات، الإحصاء، الأدوات، وطريقة التفكير والتحليل.
 
-### ⏰ ابدأ من هنا
+- [اسم المقال](الرابط)
+- [اسم المقال](الرابط)
+- [اسم المقال](الرابط)
 
-محتاج بيانات حقيقية تتدرب عليها؟ دي مجموعة من المصادر اللي تقدر تلاقي منها بيانات مجانية وعامة:
+---
 
-• <a href="https://www.coursera.org/">ء</a><br>
-• <a href="https://datahub.io/collections">Datahub</a><br>
-• <a href="https://datasetsearch.research.google.com/">Dataset Search</a><br>
-• <a href="https://www.kaggle.com/datasets">Kaggle</a><br>
-• <a href="https://data.gov/">Data.gov</a><br>
-• <a href="https://www.mavenanalytics.io/data-playground">Maven Analytics Data Playground</a><br>
-• <a href="https://github.com/awesomedata/awesome-public-datasets">Awesome Public Datasets</a><br>
-• <a href="https://www.datacamp.com/workspace/datasets">DataCamp Datasets</a><br>
-• <a href="https://data.nasa.gov/">NASA Data</a><br>
-• <a href="https://cloud.google.com/bigquery/docs/sandbox">Google BigQuery</a>
+## 📊 البيانات للتدريب
 
-### ▶️ قنوات YouTube
+التدريب على بيانات حقيقية من أهم الخطوات في رحلة تعلم تحليل البيانات. المصادر دي بتوفر مجموعات بيانات مجانية وعامة تقدر تستخدمها في التدريب والمشاريع.
 
-• <a href="https://www.coursera.org/">ء</a><br>
-• <a href="https://www.youtube.com/c/AlexTheAnalyst">Alex the Analyst</a><br>
-• <a href="https://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dww/featured">Tina Huang</a><br>
-• <a href="https://www.youtube.com/c/LukeBarousse">Luke Barousse</a><br>
-• <a href="https://www.youtube.com/@KenJee_ds/featured">Ken Jee</a><br>
-• <a href="https://www.youtube.com/c/sqlbelle">sqlbelle</a>
+- <a href="https://datahub.io/collections">Datahub</a><br>
+- <a href="https://datasetsearch.research.google.com/">Google Dataset Search</a><br>
+- <a href="https://www.kaggle.com/datasets">Kaggle Datasets</a><br>
+- <a href="https://data.gov/">Data.gov</a><br>
+- <a href="https://www.mavenanalytics.io/data-playground">Maven Analytics Data Playground</a><br>
+- <a href="https://github.com/awesomedata/awesome-public-datasets">Awesome Public Datasets</a><br>
+- <a href="https://www.datacamp.com/workspace/datasets">DataCamp Datasets</a><br>
+- <a href="https://data.nasa.gov/">NASA Data</a><br>
+- <a href="https://cloud.google.com/bigquery/docs/sandbox">Google BigQuery</a>
 
-### 💼 صناع محتوى على LinkedIn
+---
 
-• <a href="https://www.coursera.org/">ء</a><br>
-• <a href="https://www.linkedin.com/in/datawithdanny/">Danny Ma</a><br>
-• <a href="https://www.linkedin.com/in/averyjsmith/">Avery Smith</a><br>
-• <a href="https://www.linkedin.com/in/bellamy-al/">Albert Bellamy</a>
+## 🎥 الأشخاص وصناع المحتوى
 
-### 🎓 كورسات محددة
+مجموعة من محللي البيانات وصناع المحتوى المفيدين للمتابعة والتعلم، سواء من خلال YouTube أو LinkedIn.
 
+- **اسم الشخص**
+  - [YouTube](الرابط)
+  - [LinkedIn](الرابط)
 
-• <a href="https://www.coursera.org/">ء</a><br>
-• <a href="https://www.coursera.org/">Coursera</a><br>
-• <a href="https://www.mavenanalytics.io/">Maven Analytics</a>
+- **اسم الشخص**
+  - [YouTube](الرابط)
+  - [LinkedIn](الرابط)
 
-### 🌐 منصات للتعلُّم
+- **اسم الشخص**
+  - [YouTube](الرابط)
+  - [LinkedIn](الرابط)
 
-• <a href="https://www.coursera.org/">ء</a><br>
-• <a href="https://www.coursera.org/">Coursera</a><br>
-• <a href="https://www.mavenanalytics.io/">Maven Analytics</a>
+---
+
+## 🏆 أهم الشهادات
+
+الشهادات دي من أهم الشهادات والمسارات المهنية المرتبطة بمجال تحليل البيانات والـ Business Intelligence، وبتساعد في بناء أساس مهني قوي وإثبات المهارات.
+
+- <a href="الرابط">اسم الشهادة — الجهة المانحة</a><br>
+- <a href="الرابط">اسم الشهادة — الجهة المانحة</a><br>
+- <a href="الرابط">اسم الشهادة — الجهة المانحة</a><br>
+- <a href="الرابط">اسم الشهادة — الجهة المانحة</a><br>
+- <a href="الرابط">اسم الشهادة — الجهة المانحة</a>
+
+---
+
+## 🏫 مراكز التدريب
+
+مراكز وجهات تدريب بتقدم برامج أو دورات في تحليل البيانات والأدوات المرتبطة بالمجال، سواء بشكل حضوري أو من خلال تدريب مباشر.
+
+- <a href="الرابط">اسم مركز التدريب</a><br>
+- <a href="الرابط">اسم مركز التدريب</a><br>
+- <a href="الرابط">اسم مركز التدريب</a><br>
+- <a href="الرابط">اسم مركز التدريب</a>
+
+---
+
+## 🛠️ الأدوات
+
+مجموعة الأدوات الأساسية والمفيدة لمحلل البيانات، مع الموارد المرتبطة بكل أداة.
+
+**[🛠️ استكشف الأدوات والموارد](./tools/README.md)**
+
+---
 
 ## 🖥️ المساهمة
 
-عندك مصدر مجاني ومفيد لتعلُّم تحليل البيانات شايف إنه يستاهل يكون هنا؟ شاركه معانا.
+عندك مصدر مجاني أو مفيد لتعلُّم تحليل البيانات شايف إنه يستاهل يكون هنا؟ شاركه معانا.
 
 تقدر تعمل **Pull Request (PR)** وتضيف المصدر، وهنراجعه ونضيفه للتجميعة لو مناسب.
 
 > 🗓️ **آخر تحديث:** يوليو 2026
 
-</div>
 </div>
