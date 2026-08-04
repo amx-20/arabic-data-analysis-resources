@@ -105,13 +105,19 @@
 - [شهادة أساسيات البيانات — IBM SkillsBuild](https://www.credly.com/org/ibm-skillsbuild/badge/data-fundamentals)
 - [شهادة أساسيات تحليل الأعمال والبيانات — Simplilearn](https://www.simplilearn.com/free-business-intelligence-course-online-skillup)
 ---
+<div dir="rtl" align="right">
 
 ## 🏫 مراكز التدريب
 
-مراكز وجهات تدريب بتقدم برامج أو دورات في تحليل البيانات والأدوات المرتبطة بالمجال، سواء بشكل حضوري أو من خلال تدريب مباشر.
+مراكز وجهات تدريب في مصر بتقدم برامج متخصصة في تحليل البيانات والأدوات المرتبطة بالمجال، سواء بشكل حضوري أو من خلال تدريب مباشر.
 
-- [Route Academy](https://www.routeegypt.com/)
+- [أكاديمية Epsilon AI — Epsilon AI Academy](الرابط)<br>
+- [أكاديمية TechMind — TechMind](الرابط)<br>
+- [أكاديمية INSTANT — INSTANT](الرابط)<br>
+- [أكاديمية Route — Route Academy](https://www.routeegypt.com/)<br>
+- [مبادرة Egypt Data Builders — Egypt Data Builders](الرابط)
 
+</div>
 ---
 
 ## 🖥️ المساهمة
