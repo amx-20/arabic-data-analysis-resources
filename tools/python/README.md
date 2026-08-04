@@ -10,28 +10,25 @@
 Python بتوفر مكتبات وأدوات كتير بتسهّل عملية تحليل البيانات، وبتخليك تعمل تحليلات أكتر تعقيدًا وتوصل لنتائج بشكل أسرع وأكثر كفاءة.
 </p>
 
-<h3 align="right">📺 قنوات وفيديوهات على YouTube</h3>
-
 <div dir="rtl" align="right">
 
-- [Learn Python in Arabic - الزيرو](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
-- [برمجة بايثون | Python Programming - الدسوقي](https://www.youtube.com/playlist?list=PL1DUmTEhxCG7N6R3wzLhXN0NqYJk3N_U3)
-- [Python for Data Analysis - Data with Baraa](https://www.youtube.com/playlist?list=PLvj5rK6Yj4G6yZ9b7e93H_G2o8K6p3c4X)
-- [كورس بايثون لتحليل البيانات من الصفر - مدرسة تحليل البيانات](https://www.youtube.com/playlist?list=PL8J_rKj8N7H-6oG3c9H4q1-2-12w3-C4D)
-- [Python For Data Analysis In Arabic - احمد زعزع](https://www.youtube.com/playlist?list=PLG_q1z0X5G8y6-4x-7s9n0Q3o14X-V3q1)
-- [Python Basics | أساسيات بايثون - خالد الخضري](https://www.youtube.com/playlist?list=PL0DTpX-Mh3iGqF7q14w0l1G6k3P4_F_F)
-- [Pandas for Data Analysis - الاء عصام](https://www.youtube.com/playlist?list=PLy_Gz-j2G_j9-8W6x5-2p3g6-1Y-3A8K)
+#### 📚 الكورسات وقوائم التشغيل
 
-- <div dir="rtl" align="right">
+- [تعلم Python بالعربي — الزيرو](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
+- [برمجة بايثون — الدسوقي](https://www.youtube.com/playlist?list=PL1DUmTEhxCG7N6R3wzLhXN0NqYJk3N_U3)
+- [Python for Data Analysis — Data with Baraa](https://www.youtube.com/playlist?list=PLvj5rK6Yj4G6yZ9b7e93H_G2o8K6p3c4X)
+- [كورس بايثون لتحليل البيانات من الصفر — مدرسة تحليل البيانات](https://www.youtube.com/playlist?list=PL8J_rKj8N7H-6oG3c9H4q1-2-12w3-C4D)
+- [Python لتحليل البيانات بالعربي — أحمد زعزع](https://www.youtube.com/playlist?list=PLG_q1z0X5G8y6-4x-7s9n0Q3o14X-V3q1)
+- [أساسيات Python — خالد الخضري](https://www.youtube.com/playlist?list=PL0DTpX-Mh3iGqF7q14w0l1G6k3P4_F_F)
+- [Pandas for Data Analysis — آلاء عصام](https://www.youtube.com/playlist?list=PLy_Gz-j2G_j9-8W6x5-2p3g6-1Y-3A8K)
+- [دورة تعلم لغة Python للمبتدئين — Elzero Web Academy](https://www.youtube.com/playlist?list=PLDoPjvoLj2190AwE1S9S49_c2J49o2U3T)
+- [Python لتحليل البيانات ومكتبات Pandas & NumPy — هشام عاصم](https://www.youtube.com/playlist?list=PL93X3R3mJ_A1M_2v_X5K3_b9L1M8v5_P1)
+- [دورة تحليل واستكشاف البيانات باستخدام Python — Codezilla](https://www.youtube.com/playlist?list=PLuXY3_M4U6Y78P8O3M1v8K0cM8_P9L1V2)
 
-• <a href="https://www.youtube.com/playlist?list=PLDoPjvoLj2190AwE1S9S49_c2J49o2U3T">دورة تعلم لغة Python للمبتدئين — Elzero Web Academy</a><br>
-• <a href="https://www.youtube.com/playlist?list=PL93X3R3mJ_A1M_2v_X5K3_b9L1M8v5_P1">Python for Data Analysis - بايثون لتحليل البيانات ومكتبات Pandas & NumPy — هشام عاصم</a><br>
-• <a href="https://www.youtube.com/playlist?list=PLuXY3_M4U6Y78P8O3M1v8K0cM8_P9L1V2">دورة تحليل واستكشاف البيانات باستخدام Python — Codezilla</a>
+#### 🎥 فيديوهات فردية
 
-</div>
 
-</div>
-
+- [قائمة الفيديوهات الفردية — Excel](YOUR_YOUTUBE_PLAYLIST_LINK)
 <h3 align="right">📚 Cheat Sheets وكتب</h3>
 
 <div dir="rtl" align="right">
