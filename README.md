@@ -111,13 +111,15 @@
 
 مراكز وجهات تدريب في مصر بتقدم برامج متخصصة في تحليل البيانات والأدوات المرتبطة بالمجال، سواء بشكل حضوري أو من خلال تدريب مباشر.
 
-- [أكاديمية Epsilon AI — Epsilon AI Academy](الرابط)<br>
-- [أكاديمية TechMind — TechMind](الرابط)<br>
-- [أكاديمية INSTANT — INSTANT](الرابط)<br>
-- [أكاديمية Route — Route Academy](https://www.routeegypt.com/)<br>
-- [مبادرة Egypt Data Builders — Egypt Data Builders](الرابط)
+
+- [أكاديمية Epsilon AI](https://epsilonaiglobal.com/academy/)
+- [أكاديمية TechMind](https://techmind812.org/)
+- [أكاديمية INSTANT](https://www.instanteg.com/)
+- [أكاديمية Route](https://www.routeegypt.com/)
+- [مبادرة Egypt Data Builders — Egypt Data Builders](https://www.linkedin.com/company/data-builders-egy/)
 
 </div>
+
 ---
 
 ## 🖥️ المساهمة
