@@ -116,7 +116,7 @@
 - [أكاديمية TechMind](https://techmind812.org/)
 - [أكاديمية INSTANT](https://www.instanteg.com/)
 - [أكاديمية Route](https://www.routeegypt.com/)
-- [مبادرة Egypt Data Builders — Egypt Data Builders](https://www.linkedin.com/company/data-builders-egy/)
+- [مبادرة Egypt Data Builders](https://www.linkedin.com/company/data-builders-egy/)
 
 </div>
 
