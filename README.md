@@ -106,6 +106,7 @@
 الشهادات دي من أهم الشهادات والمسارات المهنية المرتبطة بمجال تحليل البيانات والـ Business Intelligence، وبتساعد في بناء أساس مهني قوي وإثبات المهارات.
 
 - [شهادة أساسيات البيانات — IBM SkillsBuild](https://www.credly.com/org/ibm-skillsbuild/badge/data-fundamentals)
+- [شهادة أساسيات تحليل الأعمال والبيانات — Simplilearn](https://www.simplilearn.com/free-business-intelligence-course-online-skillup)
 ---
 
 ## 🏫 مراكز التدريب
